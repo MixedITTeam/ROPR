@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROPRProject", "ROPRProject\ROPRProject.csproj", "{7446894E-CACF-4395-8CDF-EBB34D950690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROPRProject.Tests", "ROPRProject.Tests\ROPRProject.Tests.csproj", "{000E7CF4-FB3D-490F-99A0-D079158FEB55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7446894E-CACF-4395-8CDF-EBB34D950690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7446894E-CACF-4395-8CDF-EBB34D950690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7446894E-CACF-4395-8CDF-EBB34D950690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7446894E-CACF-4395-8CDF-EBB34D950690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000E7CF4-FB3D-490F-99A0-D079158FEB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000E7CF4-FB3D-490F-99A0-D079158FEB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000E7CF4-FB3D-490F-99A0-D079158FEB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000E7CF4-FB3D-490F-99A0-D079158FEB55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
